@@ -1,10 +1,10 @@
 # Hi, I'm STG Krishna Teja 👋
-📍 Hyderabad| 💼 Software QA | 📘 TypeScript | ☕ Java | 🎭 Playwright | 🧪 Selenium | ☁️ Salesforce | 🔗 REST Assured
+📍 Hyderabad | 💼 Software QA | 📘 TypeScript | ☕ Java | 🎭 Playwright | 🧪 Selenium | ☁️ Salesforce | 🔗 REST Assured
 
 ## Philosophy
 "Quality at scale" - I build robust automation tools to solve complex quality problems, reducing cycles and enabling reliable CI/CD pipelines. Currently exploring how AI accelerates test authoring and framework design.
 
-Software QA Engineer with 8+ years of experience designing scalable automation frameworks for Web, API, and Salesforce platforms. Proven track record of reducing regression cycles by up to 50%, enabling CI/CD quality gates, and driving test strategy in large-scale enterprise systems. Strong in Playwright, Selenium, API automation, and Agile delivery.
+Software QA Engineer with 8+ years of experience designing scalable automation frameworks for Web, API, and Salesforce platforms. Enabling CI/CD quality gates, and driving test strategy in large-scale enterprise systems. Strong in Playwright, Selenium, API automation, and Agile delivery.
 
 ## Vibe Coding Projects
 - 🕸️ [TechWeave](https://github.com/KrishnaTeja2121/TechWeave) - HackerNews Summarizer.
