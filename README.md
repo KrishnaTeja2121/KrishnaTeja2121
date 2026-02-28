@@ -1,5 +1,5 @@
-# Hi, I'm Krishna 👋
-📍 Global | 🤖 Software QA Engineer | 🚀 Automation Expert
+# Hi, I'm STG Krishna Teja👋
+📍 Hyderabad | 🤖 Software QA Engineer | 🚀 Automation Expert
 Software QA Engineer with 8+ years of experience designing scalable automation frameworks for Web, API, and Salesforce platforms. Proven track record of reducing regression cycles by up to 50%, enabling CI/CD quality gates, and driving test strategy in large-scale enterprise systems. Strong in Playwright, Selenium, API automation, and Agile delivery.
 
 ## Current Projects
