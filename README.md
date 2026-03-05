@@ -10,6 +10,7 @@ As a Software QA Engineer, I see AI as the next quality frontier. With software 
 Through these projects, I am upskilling toward AI Red Team roles by learning how leading AI teams test LLM behavior, detect jailbreaks, evaluate safety risk, and build practical quality frameworks. My goal is to prove this transition publicly with hands-on GitHub projects and a clear roadmap aligned to the future of AI quality.
 
 - 🛡️ [AI-RedTeam-Lab](https://github.com/KrishnaTeja2121/ai-redteam-lab) - Hands-on lab for prompt injection attacks, jailbreak detection, and LLM safety scoring.
+- 🚗 [autonomous-safety-evaluation-lab](https://github.com/KrishnaTeja2121/autonomous-safety-evaluation-lab) - Simulation-based autonomous driving safety evaluation with perception validation, edge-case detection, and risk scoring.
 
 ## Vibe Coding Projects
 - 🕸️ [TechWeave](https://github.com/KrishnaTeja2121/TechWeave) - HackerNews Summarizer.
