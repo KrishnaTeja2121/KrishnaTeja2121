@@ -16,6 +16,7 @@ Through these projects, I am upskilling toward AI Red Team roles by learning how
 - 🕸️ [TechWeave](https://github.com/KrishnaTeja2121/TechWeave) - HackerNews Summarizer.
 - ✈️ [Pilot Roster App](https://github.com/KrishnaTeja2121/pilot_roster_app) - A premium vanilla JS/CSS web app for intelligent, compliant pilot scheduling.
 - 📖 [JnanaVeda](https://github.com/KrishnaTeja2121/jnanaveda) - Elegant stotra web app with Telugu originals, English translation, and meaning for Sri Rudram and Sri Lalitha Sahasranamam.
+- 🎭 [Toy Playwright](https://github.com/KrishnaTeja2121/toy-playwright) - A from-scratch, educational implementation of a browser automation framework exposing raw CDP commands via a high-level API.
 ## Practice Projects
 - ☁️ [Salesforce Playwright Automation Framework](https://github.com/KrishnaTeja2121/Salesforce_Playwright-Automation_Framework) - Scalable E2E testing for Salesforce Lightning.
 - 🍊 [OrangeHRM Playwright Automation](https://github.com/KrishnaTeja2121/OrangeHRM_Playwright_Automation) - Practicing Playwright on OrangeHRM.
