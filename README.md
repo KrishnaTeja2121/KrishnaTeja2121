@@ -12,6 +12,7 @@ Software QA Engineer with 8+ years of experience designing scalable automation f
 - 📖 [JnanaVeda](https://github.com/KrishnaTeja2121/jnanaveda) - Elegant stotra web app with Telugu originals, English translation, and meaning for Sri Rudram and Sri Lalitha Sahasranamam.
 - 🎭 [Toy Playwright](https://github.com/KrishnaTeja2121/toy-playwright) - A from-scratch, educational implementation of a browser automation framework exposing raw CDP commands via a high-level API.
 - 🤖 [Mini Auto-Researcher](https://github.com/KrishnaTeja2121/mini_researcher) - A fast, local-first CLI agent using Cheerio and Ollama to scrape web content and synthesize executive summaries.
+- 🧠 [RAG LLM Pipeline Practice](https://github.com/KrishnaTeja2121/RAG_LLM_Pipeline_Practice) - Local RAG onboarding assistant with embeddings, ChromaDB retrieval, and Ollama-powered answers.
 ## Practice Projects
 - ☁️ [Salesforce Playwright Automation Framework](https://github.com/KrishnaTeja2121/Salesforce_Playwright-Automation_Framework) - Scalable E2E testing for Salesforce Lightning.
 - 🍊 [OrangeHRM Playwright Automation](https://github.com/KrishnaTeja2121/OrangeHRM_Playwright_Automation) - Practicing Playwright on OrangeHRM.
