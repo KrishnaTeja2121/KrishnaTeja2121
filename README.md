@@ -8,6 +8,7 @@ Software QA Engineer with 8+ years of experience designing scalable automation f
 
 ## Vibe Coding Projects
 - 🕸️ [TechWeave](https://github.com/KrishnaTeja2121/TechWeave) - HackerNews Summarizer.
+- 🔗 [API Testing Platform](https://github.com/KrishnaTeja2121/api-testing-platform) - Lightweight Next.js API request builder for sending HTTP calls and inspecting status, headers, body, and response time.
 - ✈️ [Pilot Roster App](https://github.com/KrishnaTeja2121/pilot_roster_app) - A premium vanilla JS/CSS web app for intelligent, compliant pilot scheduling.
 - 📖 [JnanaVeda](https://github.com/KrishnaTeja2121/jnanaveda) - Elegant stotra web app with Telugu originals, English translation, and meaning for Sri Rudram and Sri Lalitha Sahasranamam.
 - 🎭 [Toy Playwright](https://github.com/KrishnaTeja2121/toy-playwright) - A from-scratch, educational implementation of a browser automation framework exposing raw CDP commands via a high-level API.
